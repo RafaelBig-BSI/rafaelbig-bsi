@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hello World, I'm Rafael Bigeschi :earth_americas:
+### Welcome to my Github profile 🙌
 
+- 🖥️ I'm a software developer
+- 🏠 I'm from Brazil
+- 🏆 I'm graduate in Bachelor of Information Systems at the Faculdade de Informática de Presidente Prudente (FIPP) / UNOESTE
+- 📚 I'm currently learning English language (intermediate level) and taking courses on Udemy, such as: 
+- 1) JavaScript and TypeScript course from basic to advanced (FullStack)
+- 2) Complete Web Development course
+- 📧 E-mail: rafabigeschi@gmail.com
 <!--
 **RafaelBig-BSI/rafaelbig-bsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
