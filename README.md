@@ -4,10 +4,11 @@
 - 🖥️ I'm a web developer
 - 🏠 I'm from Brazil
 - 🏆 I'm graduate in Bachelor of Information Systems at the Faculdade de Informática de Presidente Prudente (FIPP) / UNOESTE
-- 📚 I'm currently learning English language (intermediate level) and taking courses on Udemy, such as: 
+- 📚 I'm currently learning English language (intermediate level) ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- 📚 And taking courses on Udemy, such as: 
 - 1) Javascript and TypeScript course - front-end and back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns, etc.
 - 2) Complete Web Development course with HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, etc.
-- 📚 I'm also improving my knowledge in React.js, Node.js, APIs, JSON, relational and non-relational databases. And using Git commands to upload projects to Github, where I learned about GitFlow.
+- 📚 I'm also improving my knowledge in ReactJs, NodeJs, APIs, JSON, relational and non-relational databases. Using Git to upload projects to GitHub and how to use GitFlow to work as a team.
 
 ### 🤝 My goals
 - 🚀 I'm looking to join the IT area and develop projects that add value to the company and enable my professional growth. With a view to teamwork, I try to contribute along with other professionals to the success of the workflow.
@@ -39,6 +40,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbig-bsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### 🔗 How to contact me
+### 🔗 Contact me
 <a href="https://www.linkedin.com/in/rafael-bigeschi-de-almeida-9b2a28224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:rafabigeschi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
