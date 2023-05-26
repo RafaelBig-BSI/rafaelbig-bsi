@@ -2,7 +2,7 @@
 ### :rocket: Welcome to my Github profile 🙌
 
 - 🖥️ I'm a web developer
-- 🏠 I'm from Brazil 🇧🇷
+- 🏠 I'm from Brazil
 - 🏆 I'm graduate in Bachelor of Information Systems at the Faculdade de Informática de Presidente Prudente (FIPP) / UNOESTE
 - 📚 I'm currently learning English language (intermediate level) ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - 📚 And taking courses on Udemy, such as: 
