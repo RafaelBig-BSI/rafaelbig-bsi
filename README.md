@@ -13,7 +13,7 @@
 ### 🤝 My goals
 - 🚀 I'm looking to join the IT area and develop projects that add value to the company and enable my professional growth. With a view to teamwork, I try to contribute along with other professionals to the success of the workflow.
 
-### 🔨 My skills:
+### 🔨 My skills
 - 1) Team spirit ✔️
 - 2) Responsibility ✔️
 - 3) Proactivity ✔️
