@@ -3,15 +3,15 @@
 
 - 🖥️ I'm a web developer
 - 🏠 I'm from Brazil
-- 🏆 I'm graduate in Bachelor of Information Systems at the Faculdade de Informática de Presidente Prudente (FIPP) / UNOESTE
+- 🏆 I have a Bachelor graduate degree on Information Systems at the Faculdade de Informática de Presidente Prudente (FIPP) / UNOESTE
 - 📚 I'm currently learning English language (intermediate level) ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - 📚 And taking courses on Udemy, such as: 
 - 1) Javascript and TypeScript course - front-end and back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns, etc.
 - 2) Complete Web Development course with HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, etc.
-- 📚 I'm also improving my knowledge in ReactJs, NodeJs, APIs, JSON, relational and non-relational databases. Using Git to upload projects to GitHub and how to use GitFlow to work as a team.
+- 📚 I'm also improving my knowledge in ReactJS, NodeJS, APIs, JSON, relational and non-relational databases. Using Git to upload projects to GitHub and how to use GitFlow to work as a team.
 
 ### 🤝 My goals
-- 🚀 I'm looking to join the IT area and develop projects that add value to the company and enable my professional growth. With a view to teamwork, I try to contribute along with other professionals to the success of the workflow.
+- 🚀 I'm looking to join the IT area and develop projects that add value to the company and enable my professional growth. In relation to teamwork, I try to contribute along with other professionals to the success of the workflow.
 
 ### 🔨 My skills
 - 1) Team spirit ✔️
@@ -19,13 +19,13 @@
 - 3) Proactivity ✔️
 - 4) Curious ✔️
 - 5) Organization ✔️
-- 6) Criativity and innovation ✔️
-- 7) Adaptability ✔️
+- 6) Criative and innovative ✔️
+- 7) Adaptabile ✔️
 - 8) Good communication ✔️
 
 ### 🔥 Technologies and Tools ⚙️
 - 🚀 About programming languages, I have knowledge in Java, C# and C++. I've already used Spring for web applications with Java and ASP.NET Core for C#, both with MVC architecture pattern.
-- 📝 As said, for front-end technologies, I have knowledge in HTML, CSS, JS and ReactJS library
+- 📝 As I said before, for front-end technologies, I have knowledge in HTML, CSS, JS and ReactJS library
 - 📝 And, for back-end technologies: Java, C#, C++, JavaScript (NodeJS, ExpressJS), SQL
 - ☁️ I've used relational databases like MySQL, PostgreSQL and Microsoft SQL Server. MongoDB I used as a non-relational database.
 - ⚙️ Tools I've used: VSCode, Visual Studio 2019, SpringToolSuite4, Postman, Insomnia, NetBeans IDE 8.2, MySQL Workbench, Microsoft SQL Server Management Studio, PgAdmin.
