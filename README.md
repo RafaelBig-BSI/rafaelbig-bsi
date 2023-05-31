@@ -36,7 +36,8 @@
 ### ⬇️ My Github Stats
 <div>
   <a href="https://github.com/rafaelbig-bsi">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbig-bsi&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbig-bsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbig-bsi&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbig-bsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 🔗 Contact me
